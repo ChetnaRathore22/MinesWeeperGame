@@ -535,7 +535,7 @@ const afterwin = () => {
     blockRow.push(i);
   }
   return <>
-  <AudioPlayer/>
+
     <div className='container'>
       <div className='text-align-center p-auto' id='boxsss'>
         <h2 className='text createnew1 mt-5 pt-3'>MinesWeeper Game</h2>
